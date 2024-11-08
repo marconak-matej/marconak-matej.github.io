@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Specialized in developing scalable applications using Java and Spring ecosystem, 
   with deep expertise in both SQL and NoSQL databases.
 github_username: marconak-matej
+stackoverflow_username: 6090847/matej-marconak
 minimal_mistakes_skin: air
 search: true
 
@@ -64,12 +65,18 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marconak-matej"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/6090847/matej-marconak"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/marconak-matej"
+    - label: "Stackoverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/6090847/matej-marconak"
 
 defaults:
   # _posts
