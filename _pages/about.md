@@ -3,8 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I'm a software engineer with a decade of experience in designing, developing, and deploying robust and scalable applications. 
-My experience:
+I have a decade of experience as a software engineer, during which I have designed, developed, and deployed robust and scalable applications. My experience:
 
 **Backend Development**:
 
