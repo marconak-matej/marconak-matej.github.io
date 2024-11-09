@@ -68,6 +68,9 @@ author:
     - label: "Stackoverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6090847/matej-marconak"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matej-marconak-b0631761/"
 
 footer:
   links:
@@ -77,6 +80,9 @@ footer:
     - label: "Stackoverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6090847/matej-marconak"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matej-marconak-b0631761/"
 
 defaults:
   # _posts
