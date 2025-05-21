@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+Ten years of experience developing distributed enterprise-grade systems as a software engineer.
+Extensive knowledgeable about both SQL and NoSQL databases and specialized in creating scalable applications with the Java and Spring ecosystem.
