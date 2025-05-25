@@ -1,0 +1,26 @@
+name: "Medium sync"
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Import blogs from medium
+        run: ./medium-sync.sh
+
+      - name: Commit and push imported blogs
+        run: ./github-sync.sh
