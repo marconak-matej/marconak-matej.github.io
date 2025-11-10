@@ -6,8 +6,8 @@ git add _posts
 echo "Check if there are some new _posts"
 
 if ! (git diff --staged --quiet --exit-code); then
-      git config --local user.email "github-actions[bot]@users.noreply.github.com"
-      git config --local user.name "github-actions[bot]"
+      git config --local user.email "2461939+marconak-matej@users.noreply.github.com"
+      git config --local user.name "github-actions[mm]"
 
       echo "Commiting changes"
       git commit -m 'chore: import blogs from medium'
