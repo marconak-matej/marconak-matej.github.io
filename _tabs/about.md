@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
-
 Hello! I'm **Matej Marcoňák**, a Software Engineer based in Slovakia with over a decade of experience delivering robust, scalable backend systems across banking, insurance, finance, public administration and advertising.
 
 My engineering journey started in 2014, building internal systems for managing insurance claims. Since then, I’ve worked on a wide range of high-impact projects—from central metadata systems for public administration to large advertising platforms and financial systems used in production today.
