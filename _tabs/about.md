@@ -4,47 +4,44 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+# About Me
 
-Hello! I'm **Matej Marconak**, a **Software Engineer** based in **Slovakia**. 
-Worked on various impactful projects, including banking, insurance, finance and advertising.
+Hello! I'm **Matej Marcoňák**, a Software Engineer based in Slovakia with over a decade of experience delivering robust, scalable backend systems across banking, insurance, finance, public administration and advertising.
 
-My journey as a **Software Engineer** began in **March 2014**, 
-where I started by working on internal systems for **managing insurance claims**.
-Over time, I became involved in the development and maintenance of **central meta information systems and internal administrative systems for financial management**.
+My engineering journey started in 2014, building internal systems for managing insurance claims. Since then, I’ve worked on a wide range of high-impact projects—from central metadata systems for public administration to large advertising platforms and financial systems used in production today.
 
-I gained significant experience with **microservice architectures** 
-**leading teams**, and **integrating third-party APIs**. 
-I've had the opportunity to work on platforms for several **advertising portals** and **administrative systems for managing publications and train information**. 
+Over the years, I’ve gained deep experience with **microservice architectures**, **distributed systems**, **API integrations** and **cloud-native development**. I’ve also led engineering teams, ensured code quality through reviews and testing practices and contributed to internal libraries and shared components.
 
-Currently, my focus is on **robust, scalable software development** for 
-banking, insurance, and finance using modern technologies such as 
-**Java 21**, **Spring Boot**, **Apache Kafka** and cloud platforms like **Azure**. 
+Currently, my focus is on building **high-performance, resilient systems** in the banking, insurance and finance sectors using technologies like **Java 21**, **Spring Boot**, **Kafka**, and **Azure**.
 
-I am passionate about creating efficient and high-quality software. 
+I’m passionate about writing clean, maintainable code, improving developer productivity and designing systems that scale reliably.
 
-My core technical skills include programming languages like 
+---
 
-- **Java**
-- **Kotlin**
-- **JavaScript/TypeScript** 
+## 🛠 Core Skills
 
-with databases such as 
-- **PostgreSQL**
-- **MySQL**
-- **MongoDB**
-- **Elasticsearch**
-- **Redis**
+### **Programming Languages**
+- Java
+- Kotlin
+- JavaScript / TypeScript
 
-I'm also proficient in technologies like 
-- **Spring Boot**
-- **Apache Camel**
-- **Git**
-- **Flyway**
-- **JUnit**
-- **Apache Kafka**
-- **AngularJS/Angular**
-- **Docker**
-- **JOOQ**
-- **Debezium**
-- **Kubernetes**
-- **Terraform**
+### **Databases**
+- PostgreSQL
+- MySQL
+- MongoDB
+- Elasticsearch
+- Redis
+
+### **Technologies & Tools**
+- Spring Boot
+- Apache Kafka
+- Apache Camel
+- JOOQ
+- Debezium
+- Docker
+- Kubernetes
+- Terraform
+- Git
+- Flyway
+- JUnit
+- AngularJS / Angular
