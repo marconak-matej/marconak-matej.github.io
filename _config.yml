@@ -16,7 +16,7 @@ timezone: Europe/Bratislava # https://en.wikipedia.org/wiki/List_of_tz_database_
 
 title: Matej Marconak # the main title
 
-tagline: Consultant - Full-Stack Developer # it will display as the subtitle
+tagline: Software Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Matej Marcoňák - Software Engineer from Slovakia. I build robust, scalable Java/Spring Boot & cloud solutions for banking, finance, and advertising, with SQL/NoSQL expertise.
