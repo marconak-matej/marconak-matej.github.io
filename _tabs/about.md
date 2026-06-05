@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 Hello! I'm **Matej Marcoňák**, a Software Engineer based in Slovakia with over a decade of experience delivering robust, scalable backend systems across banking, insurance, finance, public administration and advertising.
